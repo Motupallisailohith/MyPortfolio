@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.daf59c62.css",
-    "main.js": "./static/js/main.94fa2ad2.js",
+    "main.js": "./static/js/main.ee32d791.js",
     "static/media/Web_Photo_Editor.61485005.png": "./static/media/Web_Photo_Editor.61485005.a164f053ac7a4c1eebaf.png",
     "static/media/portfolio.gif": "./static/media/portfolio.2d4f8cc945db20143116.gif",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.decfdcb63165be4a18b6.svg",
@@ -57,6 +57,7 @@
     "static/media/jsFramework.svg": "./static/media/jsFramework.6f29b1988f86d14c7845.svg",
     "static/media/address_image.svg": "./static/media/address_image.ee6c2f85fd8f0536b8e5.svg",
     "static/media/pwa.png": "./static/media/pwa.4f9edd63cdcb93bd58e6.png",
+    "static/media/coursera-logo-full-rgb.png": "./static/media/coursera-logo-full-rgb.d899d9fcf76316157b90.png",
     "static/media/experience.svg": "./static/media/experience.9aa990f887966aa1ed33.svg",
     "static/media/fa-regular-400.woff": "./static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
     "static/media/Lovely_Professional_University_logo.png": "./static/media/Lovely_Professional_University_logo.38e71efa88ccf81b0ecb.png",
@@ -71,10 +72,10 @@
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.6a48aa5b1199a0c0214f.svg",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.31f4e73428eb4215e54a.svg",
     "main.daf59c62.css.map": "./static/css/main.daf59c62.css.map",
-    "main.94fa2ad2.js.map": "./static/js/main.94fa2ad2.js.map"
+    "main.ee32d791.js.map": "./static/js/main.ee32d791.js.map"
   },
   "entrypoints": [
     "static/css/main.daf59c62.css",
-    "static/js/main.94fa2ad2.js"
+    "static/js/main.ee32d791.js"
   ]
 }
